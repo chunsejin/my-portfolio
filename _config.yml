@@ -1,0 +1,5 @@
+title: Chunsejin AI Portfolio
+description: AI 프로젝트와 기술 역량을 소개하는 포트폴리오
+theme: minima
+plugins:
+  - jekyll-feed
