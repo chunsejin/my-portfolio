@@ -30,4 +30,3 @@ AI 기술을 활용해 문제를 해결하는 과정을 기록하고 공유하�
 ## 연락처
 
 - GitHub: [chunsejin](https://github.com/chunsejin)
-- Email: your-email@example.com
